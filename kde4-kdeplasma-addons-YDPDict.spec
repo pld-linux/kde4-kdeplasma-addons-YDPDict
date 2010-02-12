@@ -9,7 +9,7 @@ Release:	1
 License:	GPL v2
 Group:		X11/Applications
 Source0:	http://www.kde-look.org/CONTENT/content-files/107700-%{origname}_%{version}.tar.gz
-# Source0-md5:	437c5733c88dd190e0236bfb9bc84d72
+# Source0-md5:	a9b7f0b1ec13a7fb3889ae065fa8c7d7
 URL:		http://www.kde-look.org/content/show.php/YDPDict?content=107700
 BuildRequires:	Qt3Support-devel >= %{qtver}
 BuildRequires:	QtCore-devel >= %{qtver}
