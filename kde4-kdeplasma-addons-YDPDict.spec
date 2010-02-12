@@ -5,7 +5,7 @@
 Summary:	DE 4.X plasma interface for YDP Collins and Langenscheidt dictionaries
 Name:		kde4-kdeplasma-addons-YDPDict
 Version:	0.7.7
-Release:	0.1
+Release:	1
 License:	GPL v2
 Group:		X11/Applications
 Source0:	http://www.kde-look.org/CONTENT/content-files/107700-%{origname}_%{version}.tar.gz
